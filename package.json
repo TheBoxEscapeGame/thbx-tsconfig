@@ -7,7 +7,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "prettier": "@thbx/tsconfig",
+  "prettier": "@thbx/prettier-config",
   "scripts": {
     "format": "prettier --write .",
     "check:prettier": "prettier --check .",
