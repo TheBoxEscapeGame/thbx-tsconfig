@@ -1,2 +1,3 @@
-# thbx-tsconfig
+# @thbx/tsconfig
+
 Reference TypeScript configuration
