@@ -9,7 +9,7 @@
   "prettier": "@thbx/tsconfig",
   "scripts": {
     "format": "prettier --write .",
-    "check:eslint": "eslint --max-warnings 0 '**/*.ts'",
+    "check:prettier": "prettier --check .",
     "check": "npm run check:prettier"
   },
   "devDependencies": {
