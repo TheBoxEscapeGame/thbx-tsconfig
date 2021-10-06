@@ -2,7 +2,9 @@
   "name": "@thbx/tsconfig",
   "version": "1.0.0",
   "main": "tsconfig.json",
-  "files": ["tsconfig.json"],
+  "files": [
+    "tsconfig.json"
+  ],
   "license": "MIT",
   "publishConfig": {
     "access": "public"
